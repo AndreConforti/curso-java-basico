@@ -1,0 +1,2 @@
+module caracteristicas.da.linguagem {
+}
